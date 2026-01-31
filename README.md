@@ -55,7 +55,7 @@ RealEstate_Wesite/
 ```
 ---
 
-## 👤المطورظ/**ال** أمجد صادق (Amgaed)
+## 👤المطور/**** أمجد صادق الدالي (Amgaed)
 **GitHub:** [77amgaed-blip](https://www.google.com/search?q=https://github.com/77amgaed-blip)
 **البريد الإلكتروني:** 77amgaed@gmail.com
 **واتساب:** [967778480008](https://www.google.com/search?q=https://wa.me/967778480008)
